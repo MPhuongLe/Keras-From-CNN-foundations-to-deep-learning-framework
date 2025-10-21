@@ -9,8 +9,6 @@ This is our teamwork for the *Introduction to Big Data* course, where we explore
 
 The report introduces **deep learning through Convolutional Neural Networks (CNNs)** — starting from the basic concepts and intuition, and moving toward the **MNIST handwritten digit classification** example. This serves both as theoretical grounding and as a practical demonstration for understanding Keras’ power and simplicity.  
 
----
-
 ## Contents
 
 ### 1. Problem Statement  
